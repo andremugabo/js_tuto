@@ -1,1 +1,4 @@
-# js_tuto
+# js_tutorial
+
+**Tutorial for revising JS from scratch**
+

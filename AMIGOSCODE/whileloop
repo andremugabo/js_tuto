@@ -1,0 +1,28 @@
+// while loop
+
+var names = [
+    "Alex",
+    "Jamila",
+    "Joe",
+    "Aisha",
+    "Bob"
+];
+
+var number = 0;
+
+while(number < 5){
+    console.log(number);
+    number ++;
+}
+
+console.log("h");
+console.log("\n");
+console.log("\n");
+
+
+var size = 0;
+
+while(size < names.length){
+    console.log(names[size]);
+    size ++;
+}
